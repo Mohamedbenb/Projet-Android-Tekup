@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "725733414561",
+    "firebase_url": "https://naturecollection-e5688-default-rtdb.firebaseio.com",
+    "project_id": "naturecollection-e5688",
+    "storage_bucket": "naturecollection-e5688.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725733414561:android:0e9e1128d468e1f57bc2e0",
+        "android_client_info": {
+          "package_name": "com.projet2.venteplantes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725733414561-lnsck03f58q0tjv12m21ggt664v9dv7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projet2.venteplantes",
+            "certificate_hash": "2614891cdc48da627335e6c1c82d62e891430e31"
+          }
+        },
+        {
+          "client_id": "725733414561-jd1avj01tq6f9gobt64nslrmp6tjpbnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-RPCFep5F_K4wfKJYuOTrdn3dtuzEB5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725733414561-37c79m1a82l53fnjgehn1fh2k051a47j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
